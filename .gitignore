@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Additional file types to ignore
+*.xml
+*.iml
+
+# Generated output (optional)
+outputs/
+plots/
